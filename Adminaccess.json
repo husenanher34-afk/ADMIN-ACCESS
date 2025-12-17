@@ -11,7 +11,7 @@
         "username": "RAJ",
         "password": "123",
         "expirydate": "19-12-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "8d83620eba7a6aca",
